@@ -1,0 +1,55 @@
+{
+    "country": [
+        {
+            "id": "IND",
+            "name": "India",
+            "description": "India is known for its diverse culture, history, and large population. In sports, it has strong performances in cricket, field hockey, and badminton."
+        },
+        {
+            "id": "MDA",
+            "name": "Republic of Moldova",
+            "description": "Moldova is recognized for its emerging sports talent, particularly in wrestling and judo. The country is developing its presence in the international sports arena."
+        },
+        {
+            "id": "KOS",
+            "name": "Kosovo",
+            "description": "Kosovo is known for its emerging sports programs and has achieved success in judo and weightlifting. The country is developing its presence in the international sports arena."
+        },
+        {
+            "id": "CYP",
+            "name": "Cyprus",
+            "description": "Cyprus is known for its beautiful landscapes and historical sites. It has emerging talent in sports like athletics and swimming."
+        },
+        {
+            "id": "FIJ",
+            "name": "Fiji",
+            "description": "Fiji is renowned for its strong tradition in rugby and beautiful natural landscapes. The country also has emerging athletes in sports like athletics and swimming."
+        },
+        {
+            "id": "JOR",
+            "name": "Jordan",
+            "description": "Jordan is known for its rich cultural heritage and emerging sports programs. It has competitive performances in sports like athletics and boxing."
+        },
+        {
+            "id": "MNG",
+            "name": "Mongolia",
+            "description": "Mongolia is renowned for its strong tradition in wrestling and its vast landscapes. It has notable achievements in sports like judo and archery."
+        },
+        {
+            "id": "PAN",
+            "name": "Panama",
+            "description": "Panama is known for its vibrant culture and strong performances in sports like athletics and boxing. The country also has a growing presence in other sports."
+        },
+        {
+            "id": "TJK",
+            "name": "Tajikistan",
+            "description": "Tajikistan is recognized for its rich cultural heritage and emerging sports talent. It has competitive performances in sports like athletics and wrestling."
+        },
+        {
+            "id": "ALB",
+            "name": "Albania",
+            "description": "Albania is known for its rich history and cultural heritage. The country has emerging talent in sports such as weightlifting and athletics."
+        }
+    ]
+  }
+  
